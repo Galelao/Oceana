@@ -71,6 +71,8 @@
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/BP_NinjaStarfish.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/ProjectileUpgradeStruct.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/BP_WaterballForwards.uasset",
+				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/AbilityPickUps/BP_InteractSpeedPickUp.uasset",
+				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/AbilityPickUps/BP_InteractFiringRatePickUp.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Abilities/BP_EnemyProjectile2.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/ThirdPerson/Blueprints/Pawn/BP_OttoAmmoComponent.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/Oceana/Oceana/Content/A_Surface_Footstep/Niagara_FX/ParticleSystems/PEN_WaterWaves.uasset",
