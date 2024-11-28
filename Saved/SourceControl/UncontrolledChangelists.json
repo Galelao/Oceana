@@ -6,10 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
-				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/Characters/Mannequin_UE4/Animations/NuetralIdle_Fwd1.uasset",
 				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/Characters/Mannequin_UE4/Animations/NuetralIdle_Fwd.uasset",
-				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/Animations/Oceana/Locomotion_BS1D.uasset",
-				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/Animations/Oceana/NuetralIdle_Fwd.uasset"
+				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/Animations/Oceana/NuetralIdle_Fwd.uasset",
+				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/ABP/ABP_Oceana.uasset",
+				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/Animations/Oceana/BS_Locomotion.uasset",
+				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/Characters/Mannequin_UE4/Animations/NuetralIdle_Fwd1.uasset",
+				"C:/Users/Sam/Documents/UnrealProjects/Oceana/Oceana/Content/ThirdPerson/Oceana/Animations/Oceana/Locomotion_BS1D.uasset"
 			]
 		}
 	]
